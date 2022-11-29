@@ -1,0 +1,14 @@
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\bin\Debug\netcoreapp3.1\simultaneousTask.exe
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\bin\Debug\netcoreapp3.1\simultaneousTask.deps.json
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\bin\Debug\netcoreapp3.1\simultaneousTask.runtimeconfig.json
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\bin\Debug\netcoreapp3.1\simultaneousTask.runtimeconfig.dev.json
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\bin\Debug\netcoreapp3.1\simultaneousTask.dll
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\bin\Debug\netcoreapp3.1\simultaneousTask.pdb
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\obj\Debug\netcoreapp3.1\simultaneousTask.csproj.AssemblyReference.cache
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\obj\Debug\netcoreapp3.1\simultaneousTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\obj\Debug\netcoreapp3.1\simultaneousTask.AssemblyInfoInputs.cache
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\obj\Debug\netcoreapp3.1\simultaneousTask.AssemblyInfo.cs
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\obj\Debug\netcoreapp3.1\simultaneousTask.csproj.CoreCompileInputs.cache
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\obj\Debug\netcoreapp3.1\simultaneousTask.dll
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\obj\Debug\netcoreapp3.1\simultaneousTask.pdb
+C:\Users\adela\source\repos\simultaneousTask\simultaneousTask\obj\Debug\netcoreapp3.1\simultaneousTask.genruntimeconfig.cache

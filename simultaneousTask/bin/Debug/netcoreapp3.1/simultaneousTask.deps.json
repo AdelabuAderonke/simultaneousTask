@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "simultaneousTask/1.0.0": {
+        "runtime": {
+          "simultaneousTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "simultaneousTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
